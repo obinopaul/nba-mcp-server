@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/obinopaul-nba-mcp-server-badge.png)](https://mseep.ai/app/obinopaul-nba-mcp-server)
+
 # NBA MCP Server
 
 A Python server implementing Model Context Protocol (MCP) for NBA statistics and live game data.
